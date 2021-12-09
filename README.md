@@ -74,7 +74,7 @@
 
 ## Дополнительные материалы
 
-* Задание ([перейти](https://github.com/d-01/graduate-2021-dec/wiki/Задание))
-* Описание процесса разработки ([перейти](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки))
-* Теория ([перейти](https://github.com/d-01/graduate-2021-dec/wiki/Теория))
+* [Задание](https://github.com/d-01/graduate-2021-dec/wiki/Задание)
+* [Описание процесса разработки](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки)
+* [Теория](https://github.com/d-01/graduate-2021-dec/wiki/Теория)
 
