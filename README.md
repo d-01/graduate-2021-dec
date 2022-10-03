@@ -6,11 +6,16 @@
 
 ## Ссылки
 
-1. [youtube.com](https://youtu.be/PNzgEXyk66s) | Запись выступления на on-line защите (10 минут) + оценка эксперта
-1. [docs.google.com](https://docs.google.com/presentation/d/1NhPAmC92J0V7qJkXm4G2BLtpCZlzJ7NkgOobYGHFN4I/edit?usp=sharing) | Презентация в Google Slides
-1. [github.com](https://github.com/d-01/graduate-2021-dec/wiki/Задание) | Задание
-1. [github.com](https://github.com/d-01/graduate-2021-dec/wiki/Теория) | Теория
-1. [github.com](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки) | Описание процесса разработки
+1. [youtu.be/PNzgEXyk66s](https://youtu.be/PNzgEXyk66s)
+   * Запись выступления на on-line защите (10 минут) + оценка эксперта
+1. [docs.google.com/presentation/d/1NhP...FN4I](https://docs.google.com/presentation/d/1NhPAmC92J0V7qJkXm4G2BLtpCZlzJ7NkgOobYGHFN4I/edit?usp=sharing)
+   * Презентация в Google Slides
+1. [github.com/d-01/graduate-2021-dec/wiki/Задание](https://github.com/d-01/graduate-2021-dec/wiki/Задание)
+   * Задание
+1. [github.com/d-01/graduate-2021-dec/wiki/Теория](https://github.com/d-01/graduate-2021-dec/wiki/Теория)
+   * Теория
+1. [github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки)
+   * Описание процесса разработки
 
 ## Материалы для сдачи
 
@@ -99,7 +104,7 @@
 1. Открыть ноутбук в [Google Colab](https://colab.research.google.com/drive/1eoZHZqYJiMV266zEfJ3Vb3EEXQ6xDh0A?usp=sharing).
 1. Выбрать режим GPU (Change runtime type - GPU).
    * Это требование не является обязательным, но в режиме GPU используется более точный (CNN-based) детектор лиц.
-   * (2022-08-31) В последнем обновлении библиотека `dlib` в режиме GPU выдает ошибку.
+   * (2022-08-31) В последнем обновлении библиотека `dlib` в режиме GPU выдает ошибку.
 1. Выполнить все ячейки (Run all `Ctrl+F9`).
    * Если браузер выдаст запрос -- разрешить доступ к веб-камере.
 1. Под предпоследней ячейкой с кодом `emotion_timeline = run_demo('demo-video.mp4')` появится демо-видео с детектором эмоций в реальном времени.
