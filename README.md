@@ -2,22 +2,24 @@
 
 *Дипломная работа*
 
-# Разработка моделей распознавания эмоций на изображении
+# Обучение нейросети для распознавания выражения лица
 
 ## Ссылки
 
-1. [youtu.be/PNzgEXyk66s](https://youtu.be/PNzgEXyk66s)
-   * Запись выступления на on-line защите (10 минут) + оценка эксперта
-1. [docs.google.com/presentation/d/1NhP...FN4I](https://docs.google.com/presentation/d/1NhPAmC92J0V7qJkXm4G2BLtpCZlzJ7NkgOobYGHFN4I/edit?usp=sharing)
-   * Презентация в Google Slides
-1. [github.com/d-01/graduate-2021-dec/wiki/Задание](https://github.com/d-01/graduate-2021-dec/wiki/Задание)
-   * Задание
-1. [github.com/d-01/graduate-2021-dec/wiki/Теория](https://github.com/d-01/graduate-2021-dec/wiki/Теория)
-   * Теория
-1. [github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки)
-   * Описание процесса разработки
+1. [Запись](https://youtu.be/PNzgEXyk66s) выступления на on-line защите (10 минут) + оценка эксперта
+1. [Презентация](https://docs.google.com/presentation/d/1NhPAmC92J0V7qJkXm4G2BLtpCZlzJ7NkgOobYGHFN4I/edit?usp=sharing) в Google Slides
+1. [Задание](https://github.com/d-01/graduate-2021-dec/wiki/Задание)
+1. [Теория](https://github.com/d-01/graduate-2021-dec/wiki/Теория)
+1. [Описание процесса разработки](https://github.com/d-01/graduate-2021-dec/wiki/Описание-процесса-разработки)
 
 ## Материалы для сдачи
+
+1. [Модель классификации эмоций](#classification-model)
+1. [Модель предсказания valence-arousal разложения](#va-model)
+1. [Распознавание эмоций на изображении](#emotion-recognition-image)
+1. [Распознавание эмоций на видео](#emotion-recognition-video)
+
+<a id="classification-model"></a>
 
 ### Модель классификации эмоций
 
@@ -46,6 +48,8 @@
 * По окончании работы скрипта в текущей директории будет создан файл с ответами для загрузки на kaggle:
   * `submission.csv`
 
+<a id="va-model"></a>
+
 ### Модель предсказания valence-arousal разложения
 
 #### Ссылки
@@ -61,6 +65,8 @@
 #### Инструкция по запуску
 
 1. Выполнить все ячейки (Run all `Ctrl+F9`).
+
+<a id="emotion-recognition-image"></a>
 
 ### Распознавание эмоций на изображении
 
@@ -83,6 +89,8 @@
 
 1. Выполнить все ячейки (Run all `Ctrl+F9`).
 1. После выполнения всех ячеек можно заменить тестовые изображения `1.jpg` и `2.jpg` на произвольные и выполнить ячейки начиная с раздела `Demo` (Run after `Ctrl+F10`).
+
+<a id="emotion-recognition-video"></a>
 
 ### Распознавание эмоций на видео
 
