@@ -4,7 +4,7 @@
 
 ## Ссылки
 
-1. [Запись](https://youtu.be/PNzgEXyk66s) выступления на on-line защите (10 минут) + оценка эксперта
+1. [Видео-презентация](https://youtu.be/PNzgEXyk66s) (10 минут) + оценка эксперта
 1. [Презентация](https://docs.google.com/presentation/d/1NhPAmC92J0V7qJkXm4G2BLtpCZlzJ7NkgOobYGHFN4I/edit?usp=sharing) в Google Slides
 1. [Задание](https://github.com/d-01/graduate-2021-dec/wiki/Задание)
 1. [Теория](https://github.com/d-01/graduate-2021-dec/wiki/Теория)
